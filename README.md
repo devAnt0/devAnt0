@@ -48,4 +48,4 @@ Los integrantes del equipo de desarrollo son:
 * [Isabella Jaramillo](https://github.com/isabela3013)
 
 ## Estatus
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isabela3013&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devAnt0&theme=dark&background=000000)](https://git.io/streak-stats)
