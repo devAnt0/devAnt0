@@ -78,7 +78,7 @@ Los integrantes del equipo de desarrollo son:
 * [Yersson Hernandez](https://github.com/YHPSNK99)
 * [Jaime Areiza](https://github.com/Jareiza99)
 * [Isabella Jaramillo](https://github.com/isabela3013)
-* [Liset Mosquere](https://github.com/Lissy07)
+* [Liset Mosquera](https://github.com/Lissy07)
 
 ## Estatus
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devAnt0&theme=dark&background=000000)](https://git.io/streak-stats)
