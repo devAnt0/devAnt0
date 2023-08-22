@@ -71,6 +71,9 @@ Para tener la rama en el repositorio remoto y no solamente en el local:
 git push --set-upstream origin nombre/nuevaRama
 ```
 
+![image](https://github.com/devAnt0/devAnt0/assets/142921169/a6d756b1-1c7a-4a3f-a40c-d9895aed6444)
+
+
 ## Integrantes
 Los integrantes del equipo de desarrollo son:
 * [Juan Esteban Giraldo](https://github.com/YHPSNK99)
